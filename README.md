@@ -1,4 +1,4 @@
-# 📝 Markdown to Styled HTML Renderer | رندرکننده Markdown به HTML استایل‌دار
+# 📝 Markdown to Styled HTML Renderer 
 
 
 ## English 🇬🇧
