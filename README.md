@@ -19,13 +19,6 @@ After converting the raw Markdown to HTML, we enhance the final output with a cu
    ```bash
    git clone https://github.com/smovilini/GPT_Response_Style_Handler.git
    ```
-   Install dependencies:
-
-pip install -r requirements.txt
-Run the example:
-
-python render.py
-Check the generated output.html in your browser.
 
 📁 Structure
 
@@ -57,18 +50,6 @@ style.css: Custom CSS for styled HTML rendering.
 ریپازیتوری را کلون کنید:
 ```bash
 git clone https://github.com/your-username/markdown-html-styler.git
-cd markdown-html-styler
-```
-
-پیش‌نیازها را نصب کنید:
-
-```bash
-pip install -r requirements.txt
-```
-فایل نمونه را اجرا کنید:
-
-```bash
-python render.py
 ```
 
 فایل output.html را در مرورگر باز کنید و خروجی را ببینید.
